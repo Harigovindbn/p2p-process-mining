@@ -114,7 +114,11 @@ The process map needs [Graphviz](https://graphviz.org/download/) installed; ever
 
 Process mining · process mapping · requirements elicitation · stakeholder analysis · KPI design · internal controls (segregation of duties, three-way match) · root-cause analysis · Python (pandas) · data visualisation · business recommendations with quantified value
 
+## How this was built
+
+Built with AI assistance (Claude) for code generation and drafting. I defined the business problem, requirements, rules and analysis approach, and reviewed and validated all outputs.
+
 ## Author
 
 **Hari** · MSc in Artificial Intelligence · aspiring Business Analyst
-[GitHub](https://github.com/Harigovindbn) · [LinkedIn](https://www.linkedin.com/in/your-profile) · [Email](mailto:you@example.com)
+[GitHub](https://github.com/Harigovindbn) · [LinkedIn](https://www.linkedin.com/in/harigovind-b-nair-7b99b0373/)
