@@ -1,0 +1,95 @@
+user_id,role,department
+U0001,CFO,Finance
+U0002,Buyer,Procurement
+U0003,Buyer,Procurement
+U0004,Buyer,Procurement
+U0005,Buyer,Procurement
+U0006,Buyer,Procurement
+U0007,AP clerk,Finance
+U0008,AP clerk,Finance
+U0009,AP clerk,Finance
+U0010,AP clerk,Finance
+U0011,Department head,IT
+U0012,Line manager,IT
+U0013,Line manager,IT
+U0014,Line manager,IT
+U0015,Requester,IT
+U0016,Requester,IT
+U0017,Requester,IT
+U0018,Requester,IT
+U0019,Requester,IT
+U0020,Requester,IT
+U0021,Requester,IT
+U0022,Requester,IT
+U0023,Requester,IT
+U0024,Requester,IT
+U0025,Department head,Marketing
+U0026,Line manager,Marketing
+U0027,Line manager,Marketing
+U0028,Line manager,Marketing
+U0029,Requester,Marketing
+U0030,Requester,Marketing
+U0031,Requester,Marketing
+U0032,Requester,Marketing
+U0033,Requester,Marketing
+U0034,Requester,Marketing
+U0035,Requester,Marketing
+U0036,Requester,Marketing
+U0037,Requester,Marketing
+U0038,Requester,Marketing
+U0039,Department head,Operations
+U0040,Line manager,Operations
+U0041,Line manager,Operations
+U0042,Line manager,Operations
+U0043,Requester,Operations
+U0044,Requester,Operations
+U0045,Requester,Operations
+U0046,Requester,Operations
+U0047,Requester,Operations
+U0048,Requester,Operations
+U0049,Requester,Operations
+U0050,Requester,Operations
+U0051,Requester,Operations
+U0052,Requester,Operations
+U0053,Department head,HR
+U0054,Line manager,HR
+U0055,Line manager,HR
+U0056,Line manager,HR
+U0057,Requester,HR
+U0058,Requester,HR
+U0059,Requester,HR
+U0060,Requester,HR
+U0061,Requester,HR
+U0062,Requester,HR
+U0063,Requester,HR
+U0064,Requester,HR
+U0065,Requester,HR
+U0066,Requester,HR
+U0067,Department head,Finance
+U0068,Line manager,Finance
+U0069,Line manager,Finance
+U0070,Line manager,Finance
+U0071,Requester,Finance
+U0072,Requester,Finance
+U0073,Requester,Finance
+U0074,Requester,Finance
+U0075,Requester,Finance
+U0076,Requester,Finance
+U0077,Requester,Finance
+U0078,Requester,Finance
+U0079,Requester,Finance
+U0080,Requester,Finance
+U0081,Department head,Facilities
+U0082,Line manager,Facilities
+U0083,Line manager,Facilities
+U0084,Line manager,Facilities
+U0085,Requester,Facilities
+U0086,Requester,Facilities
+U0087,Requester,Facilities
+U0088,Requester,Facilities
+U0089,Requester,Facilities
+U0090,Requester,Facilities
+U0091,Requester,Facilities
+U0092,Requester,Facilities
+U0093,Requester,Facilities
+U0094,Requester,Facilities

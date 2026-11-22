@@ -1,0 +1,42 @@
+rank,variant,cases,share
+1,Requisition > Approve (LM) > Create PO > Send PO > Goods receipt > Invoice > 3-way match > Pay,4363,0.5381
+2,Requisition > Approve (LM) > Approve (Head) > Create PO > Send PO > Goods receipt > Invoice > 3-way match > Pay,1637,0.2019
+3,Requisition > Approve (LM) > Create PO > Send PO > Goods receipt > Invoice > 3-way match > Clear exception > Pay,544,0.0671
+4,Requisition > Approve (LM) > Create PO > Change PO > Send PO > Goods receipt > Invoice > 3-way match > Pay,439,0.0541
+5,Requisition > Approve (LM) > Approve (Head) > Create PO > Send PO > Goods receipt > Invoice > 3-way match > Clear exception > Pay,216,0.0266
+6,Goods receipt > Invoice > Requisition > Approve (LM) > Create PO > Send PO > 3-way match > Pay,172,0.0212
+7,Requisition > Approve (LM) > Approve (Head) > Create PO > Change PO > Send PO > Goods receipt > Invoice > 3-way match > Pay,165,0.0204
+8,Requisition > Approve (LM) > Create PO > Send PO > Invoice > 3-way match > Pay > Goods receipt,138,0.017
+9,Goods receipt > Invoice > Requisition > Approve (LM) > Approve (Head) > Create PO > Send PO > 3-way match > Pay,64,0.0079
+10,Requisition > Approve (LM) > Create PO > Change PO > Send PO > Goods receipt > Invoice > 3-way match > Clear exception > Pay,60,0.0074
+11,Requisition > Create PO > Send PO > Goods receipt > Invoice > 3-way match > Pay,47,0.0058
+12,Requisition > Approve (LM) > Approve (Head) > Create PO > Send PO > Invoice > 3-way match > Pay > Goods receipt,44,0.0054
+13,Requisition > Approve (LM) > Approve (Head) > Approve (CFO) > Create PO > Send PO > Goods receipt > Invoice > 3-way match > Pay,35,0.0043
+14,Requisition > Approve (LM) > Create PO > Send PO > Goods receipt > Invoice > 3-way match > Pay > Pay,25,0.0031
+15,Goods receipt > Invoice > Requisition > Approve (LM) > Create PO > Change PO > Send PO > 3-way match > Pay,21,0.0026
+16,Goods receipt > Invoice > Requisition > Approve (LM) > Create PO > Send PO > 3-way match > Clear exception > Pay,21,0.0026
+17,Requisition > Approve (LM) > Create PO > Send PO > Invoice > 3-way match > Clear exception > Pay > Goods receipt,15,0.0019
+18,Requisition > Approve (LM) > Approve (Head) > Create PO > Send PO > Goods receipt > Invoice > 3-way match > Pay > Pay,13,0.0016
+19,Requisition > Approve (LM) > Approve (Head) > Create PO > Change PO > Send PO > Goods receipt > Invoice > 3-way match > Clear exception > Pay,13,0.0016
+20,Requisition > Approve (LM) > Create PO > Change PO > Send PO > Invoice > 3-way match > Pay > Goods receipt,12,0.0015
+21,Goods receipt > Invoice > Requisition > Approve (LM) > Approve (Head) > Create PO > Send PO > 3-way match > Clear exception > Pay,12,0.0015
+22,Requisition > Approve (LM) > Approve (Head) > Create PO > Change PO > Send PO > Invoice > 3-way match > Pay > Goods receipt,8,0.001
+23,Goods receipt > Invoice > Requisition > Approve (LM) > Approve (Head) > Create PO > Change PO > Send PO > 3-way match > Pay,7,0.0009
+24,Requisition > Create PO > Change PO > Send PO > Goods receipt > Invoice > 3-way match > Pay,5,0.0006
+25,Requisition > Create PO > Send PO > Goods receipt > Invoice > 3-way match > Clear exception > Pay,4,0.0005
+26,Requisition > Approve (LM) > Approve (Head) > Approve (CFO) > Create PO > Send PO > Goods receipt > Invoice > 3-way match > Clear exception > Pay,4,0.0005
+27,Requisition > Approve (LM) > Create PO > Send PO > Goods receipt > Invoice > 3-way match > Clear exception > Pay > Pay,3,0.0004
+28,Goods receipt > Invoice > Requisition > Approve (LM) > Create PO > Change PO > Send PO > 3-way match > Clear exception > Pay,3,0.0004
+29,Requisition > Approve (LM) > Approve (Head) > Create PO > Send PO > Goods receipt > Invoice > 3-way match > Clear exception > Pay > Pay,3,0.0004
+30,Requisition > Approve (LM) > Approve (Head) > Create PO > Send PO > Invoice > 3-way match > Clear exception > Pay > Goods receipt,2,0.0002
+31,Requisition > Approve (LM) > Create PO > Change PO > Send PO > Goods receipt > Invoice > 3-way match > Pay > Pay,2,0.0002
+32,Requisition > Approve (LM) > Approve (Head) > Approve (CFO) > Create PO > Change PO > Send PO > Goods receipt > Invoice > 3-way match > Pay,2,0.0002
+33,Requisition > Approve (LM) > Create PO > Change PO > Send PO > Invoice > 3-way match > Clear exception > Pay > Goods receipt,1,0.0001
+34,Requisition > Approve (LM) > Approve (Head) > Approve (CFO) > Create PO > Change PO > Send PO > Goods receipt > Invoice > 3-way match > Clear exception > Pay,1,0.0001
+35,Goods receipt > Invoice > Requisition > Approve (LM) > Approve (Head) > Approve (CFO) > Create PO > Send PO > 3-way match > Pay,1,0.0001
+36,Requisition > Approve (LM) > Approve (Head) > Create PO > Change PO > Send PO > Invoice > 3-way match > Clear exception > Pay > Goods receipt,1,0.0001
+37,Requisition > Approve (LM) > Approve (Head) > Approve (CFO) > Create PO > Send PO > Invoice > 3-way match > Clear exception > Pay > Goods receipt,1,0.0001
+38,Requisition > Approve (LM) > Approve (Head) > Create PO > Change PO > Send PO > Goods receipt > Invoice > 3-way match > Pay > Pay,1,0.0001
+39,Requisition > Create PO > Change PO > Send PO > Goods receipt > Invoice > 3-way match > Clear exception > Pay,1,0.0001
+40,Goods receipt > Invoice > Requisition > Approve (LM) > Approve (Head) > Create PO > Change PO > Send PO > 3-way match > Clear exception > Pay,1,0.0001
+41,Requisition > Approve (LM) > Create PO > Send PO > Goods receipt > Invoice > Pay > 3-way match,1,0.0001

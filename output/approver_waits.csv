@@ -1,0 +1,26 @@
+level,user_id,approvals,median_wait_h,median_business_days,department,level_median_h,vs_peers
+CFO,U0001,44,38.8,1.0,Finance,38.8,1.0
+Department head,U0025,385,72.2,2.0,Marketing,26.0,2.8
+Department head,U0053,85,25.3,1.0,HR,26.0,1.0
+Department head,U0039,577,25.0,1.0,Operations,26.0,1.0
+Department head,U0011,689,24.6,1.0,IT,26.0,1.0
+Department head,U0081,354,24.4,1.0,Facilities,26.0,0.9
+Department head,U0067,141,24.1,1.0,Finance,26.0,0.9
+Line manager,U0040,580,50.5,2.0,Operations,23.7,2.1
+Line manager,U0013,607,48.4,1.0,IT,23.7,2.0
+Line manager,U0068,266,23.6,1.0,Finance,23.7,1.0
+Line manager,U0070,271,23.5,1.0,Finance,23.7,1.0
+Line manager,U0056,256,23.4,1.0,HR,23.7,1.0
+Line manager,U0069,255,23.4,1.0,Finance,23.7,1.0
+Line manager,U0082,468,23.4,1.0,Facilities,23.7,1.0
+Line manager,U0083,423,23.4,1.0,Facilities,23.7,1.0
+Line manager,U0014,604,23.3,1.0,IT,23.7,1.0
+Line manager,U0027,524,23.2,1.0,Marketing,23.7,1.0
+Line manager,U0028,560,23.1,1.0,Marketing,23.7,1.0
+Line manager,U0054,264,23.1,1.0,HR,23.7,1.0
+Line manager,U0084,418,23.1,1.0,Facilities,23.7,1.0
+Line manager,U0026,542,23.0,1.0,Marketing,23.7,1.0
+Line manager,U0041,597,23.0,1.0,Operations,23.7,1.0
+Line manager,U0042,596,23.0,1.0,Operations,23.7,1.0
+Line manager,U0012,576,22.9,1.0,IT,23.7,1.0
+Line manager,U0055,244,22.8,1.0,HR,23.7,1.0
